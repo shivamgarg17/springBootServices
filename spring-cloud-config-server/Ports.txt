@@ -1,0 +1,2 @@
+Application Port: 8080
+Config Server Port : 8886
